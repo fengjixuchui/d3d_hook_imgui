@@ -1,0 +1,8 @@
+[submodule "dependencies/imgui"]
+	path = dependencies/imgui
+	url = https://github.com/ocornut/imgui.git
+	rev = "13931fd"
+[submodule "dependencies/detours"]
+	path = dependencies/detours
+	url = https://github.com/microsoft/Detours.git
+	rev = "734ac64"
